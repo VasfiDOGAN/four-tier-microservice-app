@@ -5,9 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7e32235-0963-4ad6-a7ea-5302f86411b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaapi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ec.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k8s/api-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/k8s/api-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/backend/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/backend/templates/ebooksapi.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/backend/templates/enodeapi.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/backend/templates/ingress.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/backend/templates/svcbooksapi.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/backend/templates/svcnodeapi.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/backend/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/templates/dbconfigmap.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/templates/emongodb.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/templates/emongodbvol-pvc.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/templates/emysqldb.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/templates/emysqldbvol-pvc.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/templates/esecrets.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/templates/svcemongo.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/templates/svcmysqldb.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/database/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/frontend/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/frontend/templates/eclient.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/frontend/templates/ingress.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/frontend/templates/svcclient.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/charts/frontend/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/templates/NOTES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/templates/_helpers.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/templates/tests/test-connection.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kkartchart/values.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726031039953</updated>
-      <workItem from="1726031041650" duration="85572000" />
+      <workItem from="1726031041650" duration="87625000" />
     </task>
     <servers />
   </component>

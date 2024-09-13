@@ -1,0 +1,25 @@
+# Ignore node modules and dependency lock files
+node_modules/
+client/node_modules/
+nodeapi/node_modules/
+
+# Ignore environment and configuration files
+.env
+client/.env
+nodeapi/.env
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore compiled Java classes and metadata files
+*.class
+javaapi/.metadata/
+
+# Ignore Java build files
+target/
+
+# Ignore package-lock.json if you prefer to lock dependencies per developer
+package-lock.json
