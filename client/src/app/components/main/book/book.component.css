@@ -1,0 +1,13 @@
+.semi-bold {
+  font-weight: bold;
+  color: red !important; /* Set the text color to red */
+}
+
+.published-books {
+  background-color: orange;
+  color: white; /* If you want published books text in white */
+}
+
+.row div {
+  color: red !important; /* Force red text for all rows. it worked */
+}
